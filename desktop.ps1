@@ -17,3 +17,5 @@ choco install winscp.install
 choco install keepassx
 choco install beyondcompare
 
+choco install adblockplusie
+
