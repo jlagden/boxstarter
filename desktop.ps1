@@ -9,6 +9,7 @@ choco install firefox
 choco install thunderbird
 choco install inkscape
 choco install gimp
+choco install audacity
 
 #--- Gaming ---
 choco install steam
@@ -23,6 +24,9 @@ choco install sysinternals
 choco install procexp
 choco install foxitreader
 choco install wireshark
+choco install youtube-dl
+choco install lockhunter
+choco install f.lux
 
 choco install adblockplusie
 choco install mpc-hc
@@ -35,4 +39,5 @@ choco install visualstudio2017-workload-netweb
 choco install vscode
 choco install git.install
 choco install nodejs.install
-
+choco install python
+choco install ilspy
