@@ -4,10 +4,10 @@
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
 
 #--- Applications ---
-choco install firefox 
+choco install firefox
+choco install thunderbird
 
 #--- Gaming ---
-
 choco install steam
 
 #--- Tools ---
