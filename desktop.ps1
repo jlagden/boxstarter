@@ -6,6 +6,8 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
 #--- Applications ---
 choco install firefox
 choco install thunderbird
+choco install inkscape
+choco install gimp
 
 #--- Gaming ---
 choco install steam
@@ -16,6 +18,9 @@ choco install putty.install
 choco install winscp.install
 choco install keepassx
 choco install beyondcompare
+choco install sysinternals
+choco install procexp
+choco install foxitreader
 
 choco install adblockplusie
 choco install mpc-hc
@@ -26,4 +31,6 @@ choco install k-litecodecpackfull
 choco install visualstudio2017community 
 choco install visualstudio2017-workload-netweb
 choco install vscode
+choco install git.install
+choco install nodejs.install
 
