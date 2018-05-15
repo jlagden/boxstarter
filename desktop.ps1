@@ -14,4 +14,5 @@ choco install steam
 choco install 7zip.install
 choco install putty.install
 choco install winscp.install
+choco install keepassx
 
