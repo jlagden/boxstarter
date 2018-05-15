@@ -1,7 +1,7 @@
 # Boxstarter Install Script - Standard Desktop
 
 #--- Windows Features ---
-Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions -EnableShowFullPathInTitleBar
 
 #--- Applications ---
 choco install firefox
