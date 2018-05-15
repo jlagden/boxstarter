@@ -18,4 +18,5 @@ choco install keepassx
 choco install beyondcompare
 
 choco install adblockplusie
+choco install mpc-hc
 
