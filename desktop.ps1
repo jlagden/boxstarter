@@ -1,4 +1,3 @@
-
 # Boxstarter Install Script - Standard Desktop
 
 #--- Windows Features ---
@@ -10,6 +9,7 @@ choco install thunderbird
 choco install inkscape
 choco install gimp
 choco install audacity
+choco install kodi
 
 #--- Gaming ---
 choco install steam
