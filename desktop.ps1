@@ -19,4 +19,5 @@ choco install beyondcompare
 
 choco install adblockplusie
 choco install mpc-hc
+choco install k-litecodecpackfull
 
