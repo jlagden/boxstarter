@@ -21,3 +21,9 @@ choco install adblockplusie
 choco install mpc-hc
 choco install k-litecodecpackfull
 
+#--- Development ---
+
+choco install visualstudio2017community 
+choco install visualstudio2017-workload-netweb
+choco install vscode
+
