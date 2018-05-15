@@ -1,3 +1,4 @@
+
 # Boxstarter Install Script - Standard Desktop
 
 #--- Windows Features ---
@@ -21,6 +22,7 @@ choco install beyondcompare
 choco install sysinternals
 choco install procexp
 choco install foxitreader
+choco install wireshark
 
 choco install adblockplusie
 choco install mpc-hc
