@@ -13,7 +13,7 @@ choco install gimp
 choco install 7zip.install
 choco install putty.install
 choco install winscp.install
-choco install keepassx
+choco install keepassxc
 choco install beyondcompare
 choco install sysinternals
 choco install procexp
