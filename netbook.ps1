@@ -27,6 +27,7 @@ choco install k-litecodecpackfull
 
 #--- Development ---
 
+choco install atom
 choco install git.install
 choco install nodejs.install
 choco install python
