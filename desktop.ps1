@@ -17,16 +17,16 @@ choco install steam
 
 #--- General Tools ---
 choco install 7zip.install
-choco install adblockplusie
+choco install adblockplusie # (Adblock Plus for Edge)
 choco install cmder
 choco install deluge # (BitTorrent Client)
 choco install duckieTV # (Personalised TV Show Calendar)
-choco install foxitreader
+choco install foxitreader # (PDF Reader)
 choco install f.lux
-choco install keepassxc
-choco install k-litecodecpackfull
+choco install keepassxc # (Password Manager)
+choco install k-litecodecpackfull # (Codec pack for mpc)
 choco install mp3tag # (mp3 metadata)
-choco install mpc-hc
+choco install mpc-hc # (Video player)
 choco install openvpn # (Virtual Private Network)
 choco install pidgin # (Instant Message Client)
 choco install putty.install
@@ -36,15 +36,15 @@ choco install windirstat
 choco install winscp.install
 choco install wireshark
 choch install xming # (X Server)
-choco install youtube-dl
+choco install youtube-dl # (Download youtube videos)
 
 #--- System Tools ---
 
-choco install cpu-z.install # (CPU Info)
-choco install ddu # (Display Driver Uninstaller)
-choco install gpu-z # (GPU Info)
-choco install lockhunter
-choco install sysinternals
+#choco install cpu-z.install # (CPU Info)
+#choco install ddu # (Display Driver Uninstaller)
+#choco install gpu-z # (GPU Info)
+#choco install lockhunter # (File unlocker)
+#choco install sysinternals # (System troubleshooting tools)
 
 #--- Imaging Tools ---
 
@@ -55,11 +55,11 @@ Choco install win32diskimager.install
 #--- Development ---
 
 choco install beyondcompare
-choco install git.install
+choco install git.install # (Git Source Control)
 choco install ilspy
-choco install nodejs.install
-choco install python
-choch install sql-server-express # (SQL Server)
-choco install visualstudio2017community 
+choco install nodejs.install # (Node.js)
+choco install python # (Python programming language)
+#choco install sql-server-express # (SQL Server)
+choco install visualstudio2017community # (Visual Studio 2017 Community Edition)
 choco install visualstudio2017-workload-netweb
 choco install vscode
