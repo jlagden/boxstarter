@@ -18,18 +18,18 @@ choco install steam
 #--- General Tools ---
 choco install 7zip.install
 choco install adblockplusie # (Adblock Plus for Edge)
-choco install cmder
-choco install deluge # (BitTorrent Client)
+choco install cmder # (Command Line client)
+choco install deluge # (BitTorrent client)
 choco install duckieTV # (Personalised TV Show Calendar)
 choco install foxitreader # (PDF Reader)
-choco install f.lux
+choco install f.lux # (Display adapts to time of day)
 choco install keepassxc # (Password Manager)
 choco install k-litecodecpackfull # (Codec pack for mpc)
 choco install mp3tag # (mp3 metadata)
 choco install mpc-hc # (Video player)
 choco install openvpn # (Virtual Private Network)
 choco install pidgin # (Instant Message Client)
-choco install putty.install
+choco install putty.install # (Terminal Emulator)
 choco install signal # (Secure Messaging)
 choco install totalcommander # (File Manager)
 choco install windirstat
