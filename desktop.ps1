@@ -17,23 +17,25 @@ choco install steam
 
 #--- General Tools ---
 choco install 7zip.install
-choco install keepassxc
-choco install putty.install
-choco install winscp.install
-
-
-choco install sysinternals
-choco install foxitreader
-choco install wireshark
-choco install youtube-dl
-choco install lockhunter
-choco install f.lux
-choco install cmder
-choco install windirstat
-
 choco install adblockplusie
-choco install mpc-hc
+choco install cmder
+choco install foxitreader
+choco install f.lux
+choco install keepassxc
 choco install k-litecodecpackfull
+choco install mpc-hc
+choco install putty.install
+choco install totalcommander # (File Manager)
+choco install windirstat
+choco install winscp.install
+choco install wireshark
+choch install xming # (X Server)
+choco install youtube-dl
+
+#--- System Tools ---
+
+choco install lockhunter
+choco install sysinternals
 
 #--- Imaging Tools ---
 
@@ -44,15 +46,14 @@ Choco install win32diskimager.install
 #--- Development ---
 
 choco install beyondcompare
+choco install git.install
+choco install ilspy
+choco install nodejs.install
+choco install python
 choco install visualstudio2017community 
 choco install visualstudio2017-workload-netweb
 choco install vscode
-choco install git.install
-choco install nodejs.install
-choco install python
-choco install ilspy
 
-totalcommander # (File Manager)
 openvpn # (Virtual Private Network)
 sql-server-express (SQL Server)
 cpu-z.install # (CPU Info)
@@ -61,6 +62,6 @@ mp3tag (mp3 metadata)
 gpu-z # (GPU Info)
 deluge (BitTorrent Client)
 ddu # (Display Driver Uninstaller)
-xming # (X Server)
+
 signal # (Secure Messaging)
 duckieTV # (Personalised TV Show Calendar)
