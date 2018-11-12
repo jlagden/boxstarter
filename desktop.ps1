@@ -34,6 +34,7 @@ choco install youtube-dl
 
 #--- System Tools ---
 
+choco install ddu # (Display Driver Uninstaller)
 choco install lockhunter
 choco install sysinternals
 
@@ -61,7 +62,7 @@ pidgin # (Instant Message Client)
 mp3tag # (mp3 metadata)
 gpu-z # (GPU Info)
 deluge # (BitTorrent Client)
-ddu # (Display Driver Uninstaller)
+
 
 signal # (Secure Messaging)
 duckieTV # (Personalised TV Show Calendar)
