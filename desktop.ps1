@@ -55,12 +55,12 @@ choco install visualstudio2017-workload-netweb
 choco install vscode
 
 openvpn # (Virtual Private Network)
-sql-server-express (SQL Server)
+sql-server-express # (SQL Server)
 cpu-z.install # (CPU Info)
 pidgin # (Instant Message Client)
-mp3tag (mp3 metadata)
+mp3tag # (mp3 metadata)
 gpu-z # (GPU Info)
-deluge (BitTorrent Client)
+deluge # (BitTorrent Client)
 ddu # (Display Driver Uninstaller)
 
 signal # (Secure Messaging)
