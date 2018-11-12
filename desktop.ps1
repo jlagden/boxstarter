@@ -4,12 +4,12 @@
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions -EnableShowFullPathInTitleBar
 
 #--- Applications ---
-choco install audacity
+#choco install audacity # (Sound recording / editing)
 choco install firefox
-choco install gimp
-choco install inkscape
+#choco install gimp # (Image manipulation)
+#choco install inkscape # (Vector graphics editor)
 choco install kodi
-choco install thunderbird
+#choco install thunderbird # (Email, Usenet, RSS client)
 choco install virtualbox
 
 #--- Gaming ---
