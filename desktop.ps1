@@ -19,12 +19,18 @@ choco install steam
 choco install 7zip.install
 choco install adblockplusie
 choco install cmder
+choco install deluge # (BitTorrent Client)
+choco install duckieTV # (Personalised TV Show Calendar)
 choco install foxitreader
 choco install f.lux
 choco install keepassxc
 choco install k-litecodecpackfull
+choco install mp3tag # (mp3 metadata)
 choco install mpc-hc
+choco install openvpn # (Virtual Private Network)
+choco install pidgin # (Instant Message Client)
 choco install putty.install
+choco install signal # (Secure Messaging)
 choco install totalcommander # (File Manager)
 choco install windirstat
 choco install winscp.install
@@ -34,7 +40,9 @@ choco install youtube-dl
 
 #--- System Tools ---
 
+choco install cpu-z.install # (CPU Info)
 choco install ddu # (Display Driver Uninstaller)
+choco install gpu-z # (GPU Info)
 choco install lockhunter
 choco install sysinternals
 
@@ -51,18 +59,7 @@ choco install git.install
 choco install ilspy
 choco install nodejs.install
 choco install python
+choch install sql-server-express # (SQL Server)
 choco install visualstudio2017community 
 choco install visualstudio2017-workload-netweb
 choco install vscode
-
-openvpn # (Virtual Private Network)
-sql-server-express # (SQL Server)
-cpu-z.install # (CPU Info)
-pidgin # (Instant Message Client)
-mp3tag # (mp3 metadata)
-gpu-z # (GPU Info)
-deluge # (BitTorrent Client)
-
-
-signal # (Secure Messaging)
-duckieTV # (Personalised TV Show Calendar)
