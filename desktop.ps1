@@ -5,12 +5,12 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
 
 #--- Applications ---
 #choco install audacity # (Sound recording / editing)
-choco install firefox
+choco install firefox # (Web browser)
 #choco install gimp # (Image manipulation)
 #choco install inkscape # (Vector graphics editor)
-#choco install kodi
+#choco install kodi # (Media centre)
 #choco install thunderbird # (Email, Usenet, RSS client)
-#choco install virtualbox
+#choco install virtualbox # (Virtual machine)
 
 #--- Gaming ---
 choco install steam
