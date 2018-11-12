@@ -10,6 +10,7 @@ choco install inkscape
 choco install gimp
 choco install audacity
 choco install kodi
+choco install virtualbox
 
 #--- Gaming ---
 choco install steam
@@ -27,6 +28,8 @@ choco install wireshark
 choco install youtube-dl
 choco install lockhunter
 choco install f.lux
+choco install cmder
+choco install windirstat
 
 choco install adblockplusie
 choco install mpc-hc
